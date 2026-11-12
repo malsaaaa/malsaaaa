@@ -5,6 +5,12 @@ I'm an aspiring software developer who enjoys building useful apps and learning 
 **Portfolio:** [malsa.dev](https://malsa.dev)
 
 <p align="center">
+  <a href="https://malsa.dev">
+    <img src="portfolio.gif" width="720" alt="A short preview of my portfolio website at malsa.dev" />
+  </a>
+</p>
+
+<p align="center">
   <img src="koi/koi.gif" width="256" alt="My koi, drawn each night from my public GitHub activity" />
 </p>
 
