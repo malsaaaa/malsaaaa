@@ -48,6 +48,7 @@ I also built **Opistello OMS**, an order management system for a Malaysian sales
 - 🔨 **Working on:** tidying and documenting my projects, and fixing security issues in my older repos
 - 💼 **Looking for:** a junior software developer role in mobile or full-stack development
 - 📍 **Based in:** Malaysia
+- ⚡ Fun fact: I built a Windows screenshot manager because I kept losing my screenshots.
 
 ---
 
