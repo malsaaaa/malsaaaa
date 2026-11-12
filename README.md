@@ -10,7 +10,11 @@ I'm an aspiring software developer who enjoys building useful apps and learning 
 
 ---
 
-## What I work with
+<h2 align="center">What I work with</h2>
+
+<table align="center">
+  <tr>
+    <td valign="middle">
 
 | Area | Tools |
 | :--- | :--- |
@@ -19,6 +23,13 @@ I'm an aspiring software developer who enjoys building useful apps and learning 
 | Back end | Node.js and Express, Laravel (PHP), Flask (Python), Firebase |
 | Data | PostgreSQL and Prisma, MongoDB, MySQL, Firestore |
 | Tools | Git and GitHub Actions, Docker, Vite, Electron |
+
+</td>
+    <td valign="middle" align="center">
+      <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,react,nextjs,ts,tailwind,nodejs,express,php,laravel,python,flask,firebase,postgres,prisma,mongodb,mysql,git,githubactions,docker,vite,electron&perline=4" alt="My tools" />
+    </td>
+  </tr>
+</table>
 
 ## GitHub stats
 
