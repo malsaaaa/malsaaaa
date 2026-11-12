@@ -10,10 +10,6 @@ I'm an aspiring software developer who enjoys building useful apps and learning 
   </a>
 </p>
 
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi, drawn each night from my public GitHub activity" />
-</p>
-
 ---
 
 <h2 align="center">What I work with</h2>
@@ -81,3 +77,7 @@ I also built **Opistello OMS**, an order management system for a Malaysian sales
 ---
 
 📫 The best way to reach me is through my [portfolio](https://malsa.dev).
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, drawn each night from my public GitHub activity" />
+</p>
