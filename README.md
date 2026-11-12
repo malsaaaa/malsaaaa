@@ -44,8 +44,10 @@ I also built **Opistello OMS**, an order management system for a Malaysian sales
 
 ## Currently
 
-- Improving my projects: tidying code, fixing security issues and writing better documentation
-- Learning more about backend design and secure app development
+- 🌱 **Learning:** secure backend design and testing, and getting more comfortable with TypeScript and Flutter state management
+- 🔨 **Working on:** tidying and documenting my projects, and fixing security issues in my older repos
+- 💼 **Looking for:** a junior software developer or internship role in mobile or full-stack development
+- 📍 **Based in:** Malaysia
 
 ---
 
