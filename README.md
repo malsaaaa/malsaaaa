@@ -20,6 +20,17 @@ I'm an aspiring software developer who enjoys building useful apps and learning 
 | Data | PostgreSQL and Prisma, MongoDB, MySQL, Firestore |
 | Tools | Git and GitHub Actions, Docker, Vite, Electron |
 
+## GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=malsaaaa&theme=dark&hide_border=true" alt="My GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malsaaaa&layout=compact&theme=dark&hide_border=true" alt="My most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malsaaaa&show_icons=true&theme=dark&hide_border=true" alt="My GitHub stats" />
+</p>
+
 ## Featured projects
 
 | Project | What it is | Built with |
