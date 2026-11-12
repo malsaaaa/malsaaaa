@@ -27,8 +27,12 @@ I'm an aspiring software developer who enjoys building useful apps and learning 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malsaaaa&layout=compact&theme=dark&hide_border=true" alt="My most used languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=malsaaaa&show_icons=true&theme=dark&hide_border=true" alt="My GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malsaaaa&theme=github_dark" alt="My most used languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malsaaaa&theme=github_dark" alt="My repos per language" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malsaaaa&theme=github_dark" alt="My GitHub profile summary" />
 </p>
 
 ## Featured projects
