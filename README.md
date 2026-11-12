@@ -4,6 +4,10 @@ I'm an aspiring software developer who enjoys building useful apps and learning 
 
 **Portfolio:** [malsa.dev](https://malsa.dev)
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, drawn each night from my public GitHub activity" />
+</p>
+
 ---
 
 ## What I work with
