@@ -1,6 +1,6 @@
 # Hi, I'm Syed Danish 👋
 
-I'm an aspiring software developer who enjoys building useful apps and learning something new with every project. I work across mobile, web and backend, from Flutter and Android apps to full-stack web systems.
+I'm an aspiring software developer focused on full-stack and AI-assisted development, building useful software and learning something new with every project.
 
 **Portfolio:** [malsa.dev](https://malsa.dev)
 
@@ -25,6 +25,7 @@ I'm an aspiring software developer who enjoys building useful apps and learning 
 | Back end | Node.js and Express, Laravel (PHP), Flask (Python), Firebase |
 | Data | PostgreSQL and Prisma, MongoDB, MySQL, Firestore |
 | Tools | Git and GitHub Actions, Docker, Vite, Electron |
+| AI | Claude Code, Codex, Copilot, OpenCode, Antigravity |
 
 </td>
     <td valign="middle" align="center">
@@ -34,10 +35,6 @@ I'm an aspiring software developer who enjoys building useful apps and learning 
 </table>
 
 ## GitHub stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=malsaaaa&theme=dark&hide_border=true" alt="My GitHub streak" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malsaaaa&theme=github_dark" alt="My most used languages" width="48%" />
@@ -68,11 +65,12 @@ I also built **Opistello OMS**, an order management system for a Malaysian sales
 
 ## Currently
 
-- 🌱 **Learning:** secure backend design and testing, and getting more comfortable with TypeScript and Flutter state management
-- 🔨 **Working on:** tidying and documenting my projects, and fixing security issues in my older repos
-- 💼 **Looking for:** a junior software developer role in mobile or full-stack development
-- 📍 **Based in:** Malaysia
-- ⚡ Fun fact: I built a Windows screenshot manager because I kept losing my screenshots.
+- **Learning:** secure backend design and testing, and getting more comfortable with TypeScript and AI tooling
+- **Building:** CHRISTINA AI, a personal AI desktop assistant for Windows with voice and text chat, a 3D avatar, and support for multiple AI models (OpenAI, Anthropic, Gemini and local Ollama)
+- **Working on:** tidying and documenting my projects, and fixing security issues in my older repos
+- **Looking for:** a junior software developer role in full-stack or AI-focused development
+- **Based in:** Malaysia
+- **Fun fact:** I built a Windows screenshot manager because I kept losing my screenshots.
 
 ---
 
